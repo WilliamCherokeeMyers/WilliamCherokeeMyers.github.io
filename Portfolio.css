@@ -272,6 +272,7 @@ header {
         position: relative;
         left: -1.5em;
         width: calc(100% + 1.5em);
+        color: var(--clr-light);
     }
 }
 
@@ -289,7 +290,7 @@ header {
 }
 
 .section__title--services {
-    color: var(--clr-accent);
+    color: var(--clr-light);
     position: relative;
 }
 
