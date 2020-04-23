@@ -419,7 +419,6 @@ header {
     justify-content: center;
     margin: 2em 0 0;
     padding: 0;
-    color: var(--clr-light);
 }
 
 .social-list__item {
@@ -428,4 +427,5 @@ header {
 
 .social-list__link {
     padding: .5em;
+    color: var(--clr-light);
 }
