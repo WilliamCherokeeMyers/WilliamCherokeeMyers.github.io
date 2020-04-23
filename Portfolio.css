@@ -358,6 +358,7 @@ header {
         width: calc(100% + 2em);
         padding-left: 1em;
         padding-right: calc(200px + 4em);
+        color: var(--clr-light);
     }
 
     .about-me__img {
