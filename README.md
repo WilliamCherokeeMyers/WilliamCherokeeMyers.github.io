@@ -1,2 +1,2 @@
 # WilliamCherokeeMyers.github.io
-My Homepage
+This is a resume page for myself
